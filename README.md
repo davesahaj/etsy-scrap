@@ -7,3 +7,5 @@ A small script to save all Etsy listings on local machine .
   - `python3 -m pip install requests`
   - `python3 -m pip install pandas`
 - Run `python main.py`
+- 
+![Demo](image.png)
