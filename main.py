@@ -14,6 +14,11 @@ count = 0
 
 # iterate through each row in the DataFrame
 for idx, row in df.iterrows():
+    count=count+1
+
+    # Resume functionality, uncomment below line to start from a specific point
+    # if count < 200:
+    # 	continue
 
     # extract item details
     desc = row['DESCRIPTION']
