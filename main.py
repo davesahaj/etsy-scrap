@@ -7,7 +7,7 @@ import requests
 cwd = os.getcwd()
 
 # read data from Etsy CSV file
-df = pd.read_csv('etsy/EtsyListingsDownload.csv')
+df = pd.read_csv('EtsyListingsDownload.csv')
 df.fillna("nan", inplace=True)
 
 count = 0
