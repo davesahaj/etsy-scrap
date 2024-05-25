@@ -1,4 +1,4 @@
-A small script to save all Etsy listings on local machine .
+A small script to save your Etsy shop listings(images, price, description, etc) locally.
 
 - [Download your Etsy Listings data](https://help.etsy.com/hc/en-us/articles/360000343508-How-to-Download-Your-Listing-Information)
 - Store the downloaded file in `<work-dir>/etsy` directory.
