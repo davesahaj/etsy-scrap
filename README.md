@@ -9,3 +9,7 @@ A small script to save your Etsy shop listings(images, price, description, etc) 
 - Run `python main.py`
 - 
 ![Demo](image.png)
+
+TODO:
+- Retry and resume support
+- GUI
